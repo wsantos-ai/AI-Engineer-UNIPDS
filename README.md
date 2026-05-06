@@ -8,7 +8,7 @@ Repositório com os projetos desenvolvidos ao longo do curso de **Pós-Graduaç�
 
 | # | Projeto | Tecnologias | Descrição |
 |---|---------|-------------|-----------|
-| 001 | [Classificador de Classe Social](./001-classificacao-tensorflowjs/) | TensorFlow.js, JavaScript, HTML/CSS | Rede neural treinada e executada no navegador para classificar indivíduos em classes sociais (A–E) com base em atributos socioeconômicos |
+| 001 | [Classificador Socioeconômico](./001-classificacao-tensorflowjs/) | TensorFlow.js, JavaScript, HTML/CSS | Rede neural treinada e executada no navegador para classificar indivíduos em classes sociais (A–E) com base em atributos socioeconômicos |
 
 ---
 
@@ -35,7 +35,7 @@ Cada projeto ocupa seu próprio diretório numerado, com README próprio detalha
 
 ```
 pos-ai-engineer-unipds/
-├── 001-classificacao-tensorflowjs/   # Classificador de classe social (TF.js)
+├── 001-classificacao-tensorflowjs/   # Classificador Socioeconômico (TF.js)
 
 ```
 
