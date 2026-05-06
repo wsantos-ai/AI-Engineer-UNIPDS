@@ -1,8 +1,13 @@
-# Classificador de Classe Social
+# Classificador Socioeconômico
 
 Aplicação web que treina e executa uma rede neural diretamente no navegador para classificar indivíduos em classes sociais (A, B, C, D e E) com base em atributos socioeconômicos. Todo o pipeline de Machine Learning — preparação de dados, treinamento e inferência — ocorre no lado do cliente, sem necessidade de backend ou servidor.
 
 ---
+
+> ### 🌐 Demo em produção
+> Acesse o projeto **Classificador Socioeconômico** em produção:
+>
+> **[https://ai-engineer-unipds.onrender.com/](https://ai-engineer-unipds.onrender.com/)**
 
 ## Tecnologias
 
