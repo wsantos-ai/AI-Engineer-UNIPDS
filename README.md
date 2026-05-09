@@ -43,7 +43,7 @@ pos-ai-engineer-unipds/
 
 ## Autor
 
-<a href="https://github.com/me-wsantos">
+<a href="https://github.com/wsantos-ai">
   <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/179779189?v=4" width="80px;" alt="Wellington Santos"/>
 </a>
 
