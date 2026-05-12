@@ -9,6 +9,7 @@ Repositório com os projetos desenvolvidos ao longo do curso de **Pós-Graduaç�
 | # | Projeto | Tecnologias | Descrição |
 |---|---------|-------------|-----------|
 | 001 | [Classificador Socioeconômico](https://github.com/wsantos-ai/Classificador-Socioeconomico.git) | TensorFlow.js, JavaScript, HTML/CSS | Rede neural treinada e executada no navegador para classificar indivíduos em classes sociais (A–E) com base em atributos socioeconômicos |
+| 002 | [GitHub PII Scanner](https://github.com/wsantos-ai/GitHub-PII-Scanner.git) | Next.js 16, TypeScript 5, Tailwind CSS 4, Groq · Llama 3.3 70B, @octokit/rest | Ferramenta web para análise estática de repositórios GitHub em busca de exposição de dados pessoais (PII) e credenciais sensíveis, combinando detecção por regex/heurísticas com análise semântica via LLM |
 
 ---
 
@@ -36,6 +37,7 @@ Cada projeto ocupa seu próprio diretório numerado, com README próprio detalha
 ```
 pos-ai-engineer-unipds/
 ├── 001-classificacao-tensorflowjs/   # Classificador Socioeconômico (TF.js)
+├── 002-github-pii-scanner/           # GitHub PII Scanner (Next.js + Groq)
 
 ```
 
