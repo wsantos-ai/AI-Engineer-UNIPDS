@@ -8,7 +8,7 @@ Repositório com os projetos desenvolvidos ao longo do curso de **Pós-Graduaç�
 
 | # | Projeto | Tecnologias | Descrição |
 |---|---------|-------------|-----------|
-| 001 | [Classificador Socioeconômico](./001-classificacao-tensorflowjs/) | TensorFlow.js, JavaScript, HTML/CSS | Rede neural treinada e executada no navegador para classificar indivíduos em classes sociais (A–E) com base em atributos socioeconômicos |
+| 001 | [Classificador Socioeconômico](https://github.com/wsantos-ai/Classificador-Socioeconomico.git) | TensorFlow.js, JavaScript, HTML/CSS | Rede neural treinada e executada no navegador para classificar indivíduos em classes sociais (A–E) com base em atributos socioeconômicos |
 
 ---
 
